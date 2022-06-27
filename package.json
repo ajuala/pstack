@@ -1,0 +1,26 @@
+{
+  "name": "pstack",
+  "version": "0.1.0",
+  "description": "Simple Paystack.com query library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajuala/pstack.git"
+  },
+  "keywords": [
+    "paystack",
+    "api"
+  ],
+  "author": "Jon Anyanwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajuala/pstack/issues"
+  },
+  "homepage": "https://github.com/ajuala/pstack#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
